@@ -84,7 +84,7 @@ class _TVScreenState extends State<TVScreen> {
             child: ClipRRect(
               borderRadius: BorderRadius.circular(20), // Make it rounded
               child: Image.asset(
-                'assets/ctc.png',
+                'assets/ctc.jpg',
                 fit: BoxFit.cover, // Ensure the image covers the entire area
               ),
             ),
